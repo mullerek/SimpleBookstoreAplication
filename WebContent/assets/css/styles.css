@@ -1,0 +1,47 @@
+.fa.fa-search.lupa {
+  margin-right: 10px;
+}
+
+.form-control#input {
+  float: right;
+  height: 32px;
+}
+
+#tabela {
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+#remove {
+  margin-left: 4%;
+}
+
+.table td, .table th, table tr {
+  border: 1px solid black;
+  color: black;
+}
+
+.table-responsive {
+  border: none;
+}
+
+tr {
+  border: 1px solid white;
+}
+
+.fa.fa-shopping-cart {
+  margin-left: 35%;
+}
+
+#new
+{
+  background-color: green;
+  color: white;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-top:200px;
+  border-radius:5px;
+}
+
